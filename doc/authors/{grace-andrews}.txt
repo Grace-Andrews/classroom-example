@@ -1,0 +1,3 @@
+This is a part of the course 'Managing Puppet Code.'
+What a great class!
+
